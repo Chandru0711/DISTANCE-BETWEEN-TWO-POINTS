@@ -14,8 +14,8 @@ Import the path
 Assign the values of two points
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
-
+Substitute the values in the distance formula  ![formula]
+ d=√((x_2-x_1)²+(y_2-y_1)²)
 ### Step 4: 
 Print the values
 
