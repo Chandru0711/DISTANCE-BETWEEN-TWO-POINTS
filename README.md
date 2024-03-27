@@ -25,8 +25,8 @@ End the program
 ### PROGRAM:
 ```python
 #Program to find the distance between two points.
-#Developed by:Renuga.S 
-#RegisterNumber:212222230118
+#Developed by:CHANDRU SM
+#RegisterNumber:212223230034
 import math
 l1=[4,2]
 l2=[10,6]
